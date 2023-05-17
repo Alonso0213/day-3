@@ -1,4 +1,5 @@
-let numb1= null
-let numb2= 55
+let numb1; 
+let numb2=100
 
-console.log(typeof numb1);
+console.log(numb1);
+
