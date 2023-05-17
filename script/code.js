@@ -1,5 +1,4 @@
-let numb1; 
-let numb2=100
+const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
 
-console.log(numb1);
+console.log(typeof person);
 
